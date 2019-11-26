@@ -1,2 +1,2 @@
-# first_scroling_website_workshop
-This is a test of my possibilities in creating websites. Website scrolls from top to the down and showing some sample of shopping store website.  
+# scroling_web
+Test of possibilities in using HTML & CSS. Website shows some sample of shopping store website.  
